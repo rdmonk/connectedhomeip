@@ -196,7 +196,7 @@ function. */
 
 /* The trace facility is turned on to make some functions available for use in
 CLI commands. */
-#define configUSE_TRACE_FACILITY 1
+#define configUSE_TRACE_FACILITY 0
 
 /* Constants related to the generation of run time stats. */
 #define configGENERATE_RUN_TIME_STATS 0
